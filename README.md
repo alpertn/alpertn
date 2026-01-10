@@ -6,7 +6,7 @@
 ### Junior Backend Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2000&pause=1000&width=435&lines=%F0%9F%91%8B+Merhaba!;%F0%9F%91%8B+Hi!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2000&pause=1000&width=435&lines=%F0%9F%91%8B+Merhaba!;%F0%9F%91%8B+Hi!;" alt="Typing SVG" />
 </p>
 
   <img src="https://komarev.com/ghpvc/?username=alpertn&label=Profil%20Görüntülenme&color=6366f1&style=for-the-badge" alt="Profile Views" />
