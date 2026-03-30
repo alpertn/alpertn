@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## 🛠️ Teknolojiler & Stack
+## Bilgi Sahibi olduğum teknolojiler
 
 **Backend**
 
