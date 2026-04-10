@@ -26,33 +26,33 @@
 ![Spring Gateway](https://img.shields.io/badge/Spring_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-**Mikroservis İletişimi & Service Discovery**
+**Service Discovery**
 
 ![Eureka Server](https://img.shields.io/badge/Eureka_Server-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Feign Client](https://img.shields.io/badge/Feign_Client-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Kubernetes Service Discovery](https://img.shields.io/badge/K8s_Service_Discovery-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Mikroservisler Arasi Anlasma**
+**Mikroservisler Arasi iletişim**
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Feign Client](https://img.shields.io/badge/Feign_Client-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-**Kimlik Doğrulama**
+**Auth**
 
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-**Veritabanı & Cache & Sql & NoSQL**
+**Sql & NoSQL**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Container ve Container Orkestra**
+**Container ve Orkestra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Gözlemlenebilirlik ve Loglama**
+**Streaming ve Loglama**
 
 ![Zipkin](https://img.shields.io/badge/Zipkin-FF6600?style=for-the-badge&logo=zipkin&logoColor=white)
 ![SLF4J](https://img.shields.io/badge/SLF4J-000000?style=for-the-badge&logo=scala&logoColor=white)
